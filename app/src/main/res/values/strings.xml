@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">TourismOfBangladesh</string>
+
+    <string name="dhaka1">
+
+        \nLalbagh Fort (also Fort Aurangabad) is an incomplete 17th century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh.[1] The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah who was son of Emperor Aurangzeb and later emperor himself. His successor, Shaista Khan, did not continue the work, though he stayed in Dhaka up to 1688.\n
+The fort was never completed, and unoccupied for a long period of time. Much of the complex was built over and now sits across from modern buildings.\n
+
+       \n<b>History:</b>
+South gate of the fort painted by Johan Zoffany in 1787
+The Mughal prince Muhammad Azam, third son of Aurangzeb started the work of the fort in 1678 during his vice-royalty in Bengal. He stayed in Bengal for 15 months. The fort remained incomplete when he was called away by his father Aurangzeb.
+
+Shaista Khan was the new subahdar of Dhaka in that time, and he did not complete the fort. In 1684, the daughter of Shaista Khan named Iran Dukht Pari Bibi died there. After her death, he started to think the fort as unlucky, and left the structure incomplete.[2] Among the three major parts of Lalbagh Fort, one is the tomb of Pari Bibi.
+
+After Shaista Khan left Dhaka, it lost its popularity. The main cause was that the capital was moved from Dhaka to Murshidabad. After the end of the royal Mughal period, the fort became abandoned. In 1844, the area acquired its name as Lalbagh replacing Aurangabad, and the fort became Lalbagh Fort.
+    </string>
+
+    <string name="dhaka2">Dhaka2\n
+        a\n
+        b\n
+        c\n
+        d\n
+        e\n
+        f\n
+        g\n
+        h\n
+        i\n
+        j\n
+        a\n
+        b\n
+        c\n
+        d\n
+        e\n
+        f\n
+    </string>
+    <string-array name="dhaka_name">
+
+        <item>"Lalbagh Fort"</item>
+        <item>"dhaka2"</item>
+        <item>"dhaka3"</item>
+        <item>"dhaka4"</item>
+        <item>"dhaka5"</item>
+        <item>"dhaka6"</item>
+        <item>"dhaka7"</item>
+        <item>"dhaka8"</item>
+        <item>"dhaka9"</item>
+        <item>"dhaka10"</item>
+
+
+    </string-array>
+
+    <string-array name="ctg_name">
+
+        <item>"ctg1"</item>
+        <item>"ctg2"</item>
+        <item>"ctg3"</item>
+        <item>"ctg4"</item>
+
+
+    </string-array>
+
+    <string-array name="syl_name">
+
+        <item>"syl1"</item>
+        <item>"syl2"</item>
+        <item>"syl3"</item>
+        <item>"syl4"</item>
+
+
+    </string-array>
+
+    <string-array name="khul_name">
+
+        <item>"khul1"</item>
+        <item>"khul2"</item>
+        <item>"khul3"</item>
+        <item>"khul4"</item>
+
+
+    </string-array>
+
+    <string-array name="mymen_name">
+
+        <item>"mymen1"</item>
+        <item>"mymen2"</item>
+        <item>"mymen3"</item>
+        <item>"mymen4"</item>
+
+
+    </string-array>
+
+    <string-array name="raj_name">
+
+        <item>"raj1"</item>
+        <item>"raj2"</item>
+        <item>"raj3"</item>
+        <item>"raj4"</item>
+
+
+    </string-array>
+
+    <string-array name="bari_name">
+
+        <item>"bari1"</item>
+        <item>"bari2"</item>
+        <item>"bari3"</item>
+        <item>"bari4"</item>
+
+
+    </string-array>
+
+    <string-array name="rang_name">
+
+        <item>"rang1"</item>
+        <item>"rang2"</item>
+        <item>"rang3"</item>
+        <item>"rang4"</item>
+
+
+    </string-array>
+
+
+</resources>

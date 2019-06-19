@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="6"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    android:layout_margin="3dp"
+    android:layout_marginBottom="10dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_marginTop="10dp"
+        android:layout_weight=".7"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Divisions Of Bangladesh"
+        android:textColor="#E7E7F3"
+        android:textStyle="bold"
+        android:textSize="25sp"/>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/dhaka_id"
+            android:layout_marginRight="5dp"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Dhaka"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/barisal_id"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Barishal"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/ctg_id"
+            android:layout_marginRight="5dp"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Chittagong"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/khulna_id"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Khulna"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/mymen_id"
+            android:layout_marginRight="5dp"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Mymensingh"
+            android:textAllCaps="true"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/raj_id"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Rajshahi"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/slt_id"
+            android:layout_marginRight="5dp"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Sylhet"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/rang_id"
+            android:layout_width="165dp"
+            android:layout_height="60dp"
+            android:text="Rangpur"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
