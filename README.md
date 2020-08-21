@@ -1,2 +1,2 @@
 # Tourism-Of-Bangladesh-Android-Project
-Tourism Of Bangladesh
+This project is based on descriptions & locations of tourist places in Bangladesh
