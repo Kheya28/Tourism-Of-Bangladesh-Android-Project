@@ -24,6 +24,14 @@
 
             />
 
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/btn_map"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="map"
+            android:textSize="20dp"
+            />
         <TextView
 
             android:id="@+id/text5"

@@ -4,28 +4,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryDark"
+    android:padding="20dp"
     android:orientation="vertical"
-    android:gravity="center"
-    tools:context=".Start_Activity">
+    tools:context=".About">
 
     <TextView
-        android:id="@+id/textv"
+        android:id="@+id/textview1_id"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Have a nice trip😍"
-        android:textColor="#EAEAF5"
-        android:textSize="30dp"
-        android:layout_marginBottom="20dp"
-        android:textStyle="bold"/>
-
-    <Button
-        android:id="@+id/btn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Go🏃‍"
+        android:text="About"
         android:textStyle="bold"
-        android:textColor="@color/colorPrimaryDark"
-        android:textSize="30dp"/>
+        />
+    <TextView
+        android:id="@+id/textview2_id"
+        android:padding="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app belongs to explain the historical places of Bangladesh."/>
 
 </LinearLayout>

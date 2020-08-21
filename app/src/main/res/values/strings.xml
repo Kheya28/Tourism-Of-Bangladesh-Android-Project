@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TourismOfBangladesh</string>
 
+
     <string name="dhaka1">
 
         \nLalbagh Fort (also Fort Aurangabad) is an incomplete 17th century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh.[1] The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah who was son of Emperor Aurangzeb and later emperor himself. His successor, Shaista Khan, did not continue the work, though he stayed in Dhaka up to 1688.\n
@@ -71,10 +72,12 @@ After Shaista Khan left Dhaka, it lost its popularity. The main cause was that t
 
     <string-array name="khul_name">
 
-        <item>"khul1"</item>
-        <item>"khul2"</item>
-        <item>"khul3"</item>
-        <item>"khul4"</item>
+        <item>"Khan Jahan Ali Bridge"</item>
+        <item>"Khan Jahan Ali's Tank"</item>
+        <item>"Khulna Shipyard"</item>
+        <item>"Mazar Of Lalon"</item>
+        <item>"Mujibnagar"</item>
+        <item>"Shahid hadis park"</item>
 
 
     </string-array>
@@ -118,6 +121,94 @@ After Shaista Khan left Dhaka, it lost its popularity. The main cause was that t
 
 
     </string-array>
+
+    <string name="rupsa_bridge">
+        \n<b>Khan Jahan Ali Bridge</b> is a bridge over Rupsa River in Khulna, Bangladesh. The bridge is also known as Rupsa bridge.\n\n
+        <p>The bridge is located 4.80 km far from Khulna Town. It is called the gateway of Khulna because this bridge connects the Southern districts of Bangladesh with Mongla, the second largest sea port of Bangladesh. The length of the bridge is 1.6 km and its width is 16.48 meters.
+        </p>
+    </string>
+
+    <string name="khanTank">
+        \n
+        <p>Khan Jahan Ali Tank is a lake-like tank in front of Khan Jahan Ali tomb Complex in Bagerhat District, Bangladesh.</p>\n
+<p>The tank has several crocodiles in it. The species of those are marsh crocodile. People believe that if they appease the hunger of these crocodiles with chicken or goats, they would have the desire of their heart fulfilled. Whenever anybody makes such an offering, the caretaker of the tomb complex, or mazar, calls out the crocodiles, shouting Kalapahar, Dhalapahar, come!. Within a few minutes the crocodiles make their appearance and swallow the offerings.</p>\n
+<p>Only three individuals of marsh crocodile, a male and a female are in a semi-captive condition at Khan Jahan Ali shrine pond or tank at Bagerhat.
+</p>
+    </string>
+
+    <string name="khulna_shipyeard">
+        \n
+        Khulna Shipyard Limited is a ship construction and repair yard at Khulna, Bangladesh owned by the Government of Bangladeshunder Ministry of Defence and managed by the Bangladesh Navy. It constructs Padma-class offshore patrol vessels for the Bangladesh Navy. It has built five patrol-vessels of this class for Bangladesh Navy and two container ships. Two Durjoy-class anti-submarine warfare large patrol-crafts were built for Bangladesh navy in this shipyard. \n \n
+        The shipyard was founded in 1957. On 3 October 1999 the shipyard with a 993.7 million taka debt was handed over to Bangladesh Navy. In 2008 all debt had been cleared and since then has been making profit. The Maldives had expressed interest in procuring patrol craft for its Coast Guard \n\n
+        <b>Naval projects</b> \n
+        Durjoy-class Large Patrol Craft: 2 ships currently in service in Bangladesh Navy. Padma-class Patrol Craft: 5 ships currently in service in Bangladesh Navy, 3 more under construction for Bangladesh Coast Guard, Aluminium harbour patrol boat: CGS Atrai Bangladesh Navy floating crane: BNFC Balaban, Steel fire fighting boat, Ferrys, Buoy laying vessel, Tug Boats, Passenger ship, 3X Oil tanker, Landing craft utilities
+
+
+    </string>
+
+    <string name="mazar_lalon">
+        \n
+        Lalon, also known as Lalon Shah, Lalon Fakir or Mahatma Lalon was a Bengali Baul saint, mystic, songwriter, social reformer and thinker. Considered an archetypal icon of Bengali culture, Lalon inspired and influenced many poets, social and religious thinkers including Rabindranath Tagore, Kazi Nazrul Islam, and Allen Ginsberg albeit he "rejected all distinctions of caste and creed". Widely celebrated as an epitome of religious tolerance, he was also accused of heresy during his lifetime and after his death. In his songs, Lalon envisioned a society where all religions and beliefs would stay in harmony. He founded the institute known as Lalon Akhrah in Cheuriya, about 2 kilometres (1.2 mi) from Kushtia railway station. His disciples dwell mostly in Bangladesh and West Bengal.\n\n
+        Lalon was against religious conflict and many of his songs mock identity politics that divide communities and generate violence. He even rejected nationalism at the apex of the anti-colonial nationalist movements in the Indian subcontinent. He did not believe in classes or castes, the fragmented, hierarchical society, and took a stand against racism. Lalon does not fit the "mystical" or "spiritual" type who denies all worldly affairs in search of the soul: he embodies the socially transformative role of sub-continental bhakti and sufism. He believed in the power of music to alter the intellectual and emotional state in order to be able to understand and appreciate life itself.\n\n
+        In 1963, a mausoleum and research centre were built at the site of his shrine in Kushtia, Bangladesh. Thousands of people come to the shrine (known in Bengali as an Akhra) twice a year, at Dol Purnima in the month of Falgun (February to March) and in October, on the occasion of the anniversary of his death. During these three-day song melas, people, particularly Muslim fakirs and Bauls pay tribute. Among the modern singers of Baul music Farida Parveen and Anusheh Anadil are internationally known for singing Lalon songs.\n
+    </string>
+
+
+    <string name="mujibnagar">
+
+
+       <b>Mujibnagar</b>   formerly known as <b>Baidyanathtala</b> (Boiddonathtola) and Bhoborpara, is a town in the Meherpur District of Bangladesh.
+        The Provisional Government of Bangladesh was formed on <b>10 April 1971</b>, however, sworn in on <b>17 April 1971</b> in this place by the elected representatives of the Bengalees (mostly belongling to Awami League),
+        that led the Bangladesh Liberation War, who were leading the guerrilla war for the independence of Bangladesh (then East Pakistan)
+        from Pakistan in 1971. The place was renamed Mujibnagar by the proclamation of independence, in honour of <b>Sheikh Mujibur Rahman</b>, who declared Bangladesh independent.
+        The actual capital of the government while in exile was Calcutta. A memorial complex covering 20.10 acres (8.13 ha) has been built at the site where the ministers of that first government took their oaths.\n\n
+        <p>
+
+            Throughout the war with the Pakistan Army, the Mujibnagar government would serve as the nominal head of the pro-independence guerrilla militias, mainly the Mukti Bahini. Although the state gained independence that was recognized by other countries only in December 1971, the Mujibnagar government is recognized as the first official government of Bangladesh. The Vice President of Bangladesh, Syed Nazrul Islam, performed the ceremony at Mujibnagar in the role of Acting President, because the President, Sheikh Mujibur Rahman, was detained in Pakistan throughout the war.
+        </p>\n\n
+        <p>
+
+            <b>Bangabandhu Sheikh Mujibur Rahman</b>, who was then interned in Pakistan, was elected President, <b>Syed Nazrul Islam</b> Vice President and <b>Tajuddin Ahmed</b> Prime Minister.
+            In the absence of the President, the Vice President was empowered to exercise the powers, duties and responsibilities of the President
+        </p>\n\n
+        <p>
+            The Mujibnagar Smriti Saudha is the symbol of liberation war and the sacrifice of the Bangalis. It stands on a land measuring 20.10 acres. This monument was erected on twenty three triangular shaped concreted pillars, and appears to be a symbol of the rising sun in its design planned by architect Tanveer Naquib. Twenty three pillars symbolise the twenty three years of Pakistani rule and of the struggle that the Bangalis gradually unfolded during those twenty three years. The altar is built with a height of 3 6 and a diametre of 160. The pillars are standing in a line covering half of the altar. Of the octagonal triangular shaped pillars the height of the first one is 9 and the length is 20. Each of the following pillars has an additional height of 1 and length 9/ from the previous one and thus the 23rd pillar assumes a height of 25 6 with length 25 6. The round shaped altar is divided into three parts of different height from the surface. The height of the first, second and third is 2 6, 3 and 3 6 respectively. The numerous circles on the other part of the altar of 2 6 height symbolise the thirty lac martyrs in the War of Liberation. The other part of the altar of 3 height is covered by numerous pebbles symbolising the unified struggle of seven crore freedom fighter Banglalis. The place where oath was taken by the Mujibnagar Government has been earmarked by a rectangular of red cyramic bricks. The ascending stairs to the altar is of nine steps symbolising the progress of liberation war during the nine months.
+        </p>
+    </string>
+
+    <string name="shahidhadispark">
+
+        The traditional <b>Shahid Hadis Park</b> in Khulna is a well-known place.
+            It is situated in the center of Khulna city. Its location is on the western side of Bangladesh Bank Khulna branch. \n\n
+
+        <p>The park was established in 1884 to entertain the people of the city. That time its name was Khulna Municipality Park.
+        Later, during the mass upsurge on February 21, 1969, in the procession against Aiyoub khan,
+        <b>Sheikh Haddisur Rahman Babu</b> was killed from the gunfire by police. He was from Bagerhat district in Khulna region.
+            So, to respect his contribution the park is named after him as Shahid Hadis Park.</p>\n\n
+
+        <p>The condition of the park was not good enough just before few years. Now the park has been developed and modernized.
+        A new martyr monument has been built in the park similar to the central Shaheed Minar of Dhaka.
+        The condition of the park has been totally changed and upgraded than before.
+            Who visited the park before few years can not imagine the changes.</p>\n\n
+
+        <p>
+            A Modern fountain has been installed in the park. There is a mini bridge over the big pond around the fountain.
+            The bridge is also decorated with beautiful lighting, which creates an amazing environment in the evening with its colorful light.
+            The free wifi facility also has been added to the park.
+            A Walkway is built around the park pond.
+
+
+        </p>\n\n
+
+            Hundreds of people take morning walks every day in the park. From the afternoon to night, thousands of people spend their time here.
+            The park has become a most important recreational place for the city people of Khulna.
+            Many cultural programs are also held here on various occasions
+
+
+
+
+
+    </string>
 
 
 </resources>

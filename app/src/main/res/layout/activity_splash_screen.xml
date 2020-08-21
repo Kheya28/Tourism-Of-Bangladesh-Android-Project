@@ -16,6 +16,6 @@
         android:progressTint="#02b3b9"
         style="@android:style/Widget.ProgressBar.Horizontal"
         android:layout_width="match_parent"
-        android:layout_height="15dp" />
+        android:layout_height="10dp" />
 
 </LinearLayout>
